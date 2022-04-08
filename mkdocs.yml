@@ -2,8 +2,8 @@ site_name: Unicornia - Wiki
 site_url: https://wiki.unicornia.net/
 site_author: Unicornia - Kirin
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+  The Best and Friendliest Online LGBTQ+ Community on Discord and Everywhere else. 
+  Join our huge online community of like-minded people today!
 
 # Repository
 repo_name: kirin-3/unicornia-wiki
@@ -70,11 +70,14 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        index.md: minecraft/index.md
+        #index.md: minecraft/index.md
   - minify:
       minify_html: true
 
 # Customization
+extra_css:
+  - stylesheets/extra.css
+
 extra:
   analytics:
     provider: google
