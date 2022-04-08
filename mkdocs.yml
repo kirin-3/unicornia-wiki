@@ -68,9 +68,9 @@ theme:
 # Plugins
 plugins:
   - search
-  - redirects:
-      redirect_maps:
-        #index.md: minecraft/index.md
+  # - redirects:
+  #     redirect_maps:
+  #       index.md: minecraft/index.md
   - minify:
       minify_html: true
 
