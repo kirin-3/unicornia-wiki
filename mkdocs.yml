@@ -27,8 +27,8 @@ site_description: >-
   documentation of your Open Source or commercial project
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: kirin-3/unicornia-wiki
+repo_url: https://github.com/kirin-3/unicornia-wiki
 
 # Copyright
 copyright: Copyright &copy; 2019 - 2022 Unicornia
@@ -36,6 +36,7 @@ copyright: Copyright &copy; 2019 - 2022 Unicornia
 # Configuration
 theme:
   name: null
+  logo: assets/logo.png
   custom_dir: !ENV [THEME_DIR, "material"]
 
   # Static files
@@ -73,8 +74,8 @@ theme:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: purple
+      accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
