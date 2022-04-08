@@ -1,4 +1,4 @@
 ---
-template: overrides/home.html
-title: Material for MkDocs
+template: overrides/main.html
+title: Getting started with Insiders
 ---
