@@ -10,4 +10,6 @@
     animation: heart 1000ms infinite;
     color: #7E57C3;
   }
-  
+h2 {
+  color: var(--md-accent-fg-color);
+}
