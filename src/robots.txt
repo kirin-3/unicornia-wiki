@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow:
+Sitemap: https://wiki.unicornia.net/sitemap.xml
