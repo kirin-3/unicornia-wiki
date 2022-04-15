@@ -1,5 +1,5 @@
 ---
-template: overrides/main.html
+template: overrides/home.html
 title: Unicornia - Wiki | LGBTQ+ Community
 ---
 

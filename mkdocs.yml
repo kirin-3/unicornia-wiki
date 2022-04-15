@@ -135,7 +135,8 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: "https://unicornia.net"
+  - Main Site: "https://unicornia.net"
+  - Home: index.md
   - Minecraft:
     - minecraft/index.md
     - Features and Plugins: minecraft/features-plugins.md
