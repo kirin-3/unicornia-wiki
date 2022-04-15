@@ -83,7 +83,7 @@ extra_css:
 extra:
   analytics:
     provider: google
-    property: !ENV G-BYVBBZ5V97
+    property: G-BYVBBZ5V97
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/unicornia
