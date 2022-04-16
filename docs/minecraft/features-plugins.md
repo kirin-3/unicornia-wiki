@@ -27,7 +27,7 @@ SlimeFun4 adds many aspects of popular mods to the vanilla version such as gener
 
 mcMMO adds an MMO-like leveling system you gain levels by doing many things and the higher your level the more abilities you unlock. Check out more information about it in [mcmmo guide].
 
-  [mcmmo guide]: /minecraft/mcmmo-guide.md
+  [mcmmo guide]: /minecraft/mcmmo-guide
 
 ## Achievements
 
@@ -35,9 +35,7 @@ In Unicornia we have many various achievements that grant you money, exp, and ke
 
 ## Custom Items and Custom Enchantments
 
-We have many custom items and enchantments on the server, for more information about these click [here].
-
-  [here]: /minecraft/custom-enchants-and-items.md
+We have many custom items and enchantments on the server, for more information about these click [here](/minecraft/custom-enchants-and-items).
 
 ## Angel Chest
 

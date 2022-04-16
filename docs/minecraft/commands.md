@@ -81,15 +81,6 @@ Death chest plugin.
 | :--------- | :-------------------------- | :--------- | 
 | `/XpBottle <xp>/all` |  |  Transfer Xp to Bottle. | 
 
-## BetterRTP
-
-Random teleport.
-
-| Command     | Alias(es)                   | Description |
-| :--------- | :-------------------------- | :--------- | 
-| `/rtp` |  | Randomly teleport in your current world. | 
-| `/rtp world <world>` |  | Randomly teleport in another world. | 
-
 ## CMI
 
 Core plugin. *[] is required*
@@ -99,6 +90,7 @@ Core plugin. *[] is required*
 | `/afk` | Toggle afk mode. Reason could be provided. | `/afk (-p:playerName) (reason) (-s)` |
 | `/autorecharge` | Toggle auto flight recharge. | `/autorecharge (playerName) [exp/money/off] (-s)` |
 | `/back` | Teleports back to last saved location. Costs money. | |
+| `/rtp` | Randomly teleport in the world you are currently in Costs 100$. | |
 | `/balance` | Check money balance. | `/balance (playerName)` |
 | `/baltop` | Check top money list. | |
 | `/colorlimits` | Shows all posible colors. | |
@@ -144,13 +136,6 @@ Core plugin. *[] is required*
 | `/invsort toggle` | `/isort toggle` | Toggle automatic inventory sorting. |
 | `/invsort on|off` | `/isort on|off` | Enable/disable automatic inventory sorting. |
 | `/invsort help` | `/isort help` | Display help about the /invsort command. |
-
-## Daily Shop
-
-| Command     | Description | 
-| :--------- |  :--------- | 
-| `/ds open [shop]` | Opens the given shop for yourself. | 
-| `/ds sell [hand/all/gui]` | Sell player items with different methods. |
 
 ## DiscordSRV
 

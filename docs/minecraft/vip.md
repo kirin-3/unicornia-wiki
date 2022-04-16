@@ -18,6 +18,7 @@ Donating to the server will also give you many discord special perks, if you wis
 * 500 claim blocks instant. (one time)
 * Colored & Stylized nicknames.
 * Colored & Stylized signs.
+* Colored & Stylized anvil nametags.
 * Gain claim blocks faster.
 * 2x Online pay.
 * 2x McMMO experience.
@@ -28,6 +29,8 @@ Donating to the server will also give you many discord special perks, if you wis
 * Elytra super boost.
 * Jobs double XP(Leveling).
 * Jobs double XP, money, and points.
+* Gain pet XP 250% faster.
+* 6 Rows of Enderchest.
 
 ## Claiming Your VIP
 
