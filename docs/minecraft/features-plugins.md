@@ -20,7 +20,7 @@ Earning money is relatively easy, any farm can be profitable as mobs drop money 
 
 SlimeFun4 adds many aspects of popular mods to the vanilla version such as generators, machines, magic altars, and many many more. Check out more information about it in [slimefun guide].
 
-  [slimefun guide]: /minecraft/slimefun.md
+  [slimefun guide]: /minecraft/slimefun
 
 
 ## mcMMO
@@ -47,7 +47,7 @@ You can use `/acgui` to open the GUI manually or `/acinfo` to list all of your a
 
 AutoShulkers adds an awesome new feature: shulker boxes can automatically pick up certain drops, for more information about these please read our [auto shulkers guide].
 
-  [auto shulkers guide]: /minecraft/autoshulkers.md
+  [auto shulkers guide]: /minecraft/autoshulkers
 
 ## Chest Sort
 
@@ -98,7 +98,7 @@ We also have some custom features for the Elytra flight.
 
 For more information about this please read our [flight systems] page.
 
-  [flight systems]: /minecraft/flight-systems.md
+  [flight systems]: /minecraft/flight-systems
 
 ## Custom Drops
 
@@ -112,7 +112,7 @@ With the MyPet plugin, you are able to buy a pet and level them and make them do
 
 For more information please read our [Pets guide].
 
-  [Pets guide]: /minecraft/pets-guide.md
+  [Pets guide]: /minecraft/pets-guide
 
 ## Jobs
 
@@ -120,7 +120,7 @@ With Jobs, you are able to earn in-game money, XP, and points which you can late
 
 For more information please read our [Jobs guide].
 
-  [Jobs guide]: /minecraft/jobs-guide.md
+  [Jobs guide]: /minecraft/jobs-guide
 
 ## Player Vaults
 
