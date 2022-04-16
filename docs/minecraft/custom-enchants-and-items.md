@@ -22,6 +22,8 @@ You can use Alchemist to combine two dusts for a better rate or to combine two e
 
 You can use the tinkerer to exchange your enchanted armor for experience or exchange your custom enchant book for a fireball. A fireball has a chance of getting magic dust, which improves the success rate on a given rarity enchant book. The command for this is `/tinkerer`.
 
+You can see a list of the enchantments with `/ae list` colors are for rarity. Clicking on the enchantment names will bring up information about them; Max level, description and what it can be applied to.
+
 ## Custom Enchantments Related Items
 
 * **Slot Increaser**<br />
