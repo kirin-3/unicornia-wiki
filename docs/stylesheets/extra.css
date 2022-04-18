@@ -8,7 +8,7 @@
   }
   .heart {
     animation: heart 1000ms infinite;
-    color: #7E57C3;
+    color: #9401fe;
   }
 h2 {
   color: var(--md-accent-fg-color);

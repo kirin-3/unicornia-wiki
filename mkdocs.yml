@@ -15,7 +15,7 @@ copyright: Copyright &copy; 2020 - 2022 Unicornia
 # Configuration
 theme:
   name: null
-  logo: assets/logo.png
+  logo: assets/logo.svg
   custom_dir: !ENV [THEME_DIR, "material"]
 
   # Static files
@@ -63,7 +63,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: assets/favicon.svg
   icon:
     logo: logo
 
