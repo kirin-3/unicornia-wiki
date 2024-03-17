@@ -278,21 +278,3 @@ Server Shop.
 | :--------- |  :--------- | 
 | `/vm toggle (category)` | Toggle vein miner on or off for all (or specific) categories. | 
 | `/vm mode` | Set the mode that VeinMiner should use to activate for you (the player). Can be either "sneak", "stand" or "always". | 
-
-## VotingPlugin
-
-| Command     | Alias(es)                   | Description | Usage  |
-| :--------- | :-------------------------- | :--------- | -----:  |
-| `/vote Help/?` | | View help page. | `/vote Help/? (number)` |
-| `/vote ToggleReminders` | Enable/disable vote reminders. | |
-| `/vote Shop` | Open VoteShop GUI. | |
-| `/vote URL` | Open VoteURL GUI. | `/vote URL (SiteName)` |
-| `/vote Last` | See your last votes. | |
-| `/vote ToggleBroadcast` | oggle whether or not you will recieve vote broadcasts. | |
-| `/vote Points` | View your points. | |
-| `/vote GUI` | Open VoteGUI. | |
-| `/vote Top (Monthly|Weekly|All|Daily)` | Open list of Top Voters. | |
-| `/vote Today` | View who list of who voted today. | |
-| `/vote Total` | View your total votes. | |
-| `/vote Best` | View your best voting. | |
-| `/vote Streak` | View your voting streak. | |

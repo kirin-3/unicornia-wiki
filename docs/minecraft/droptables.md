@@ -12,7 +12,9 @@ Spawner Drop means; mobs spawned from a spawner.
 
 Money is dropped in a range meaning if it can be anything between the two values.
 
-### Blaze
+This page needs updating. It is outdated.
+
+<!-- ### Blaze
 
 **Money:** 90-250
 
@@ -567,4 +569,4 @@ Money is dropped in a range meaning if it can be anything between the two values
 | :--- | :----- | :------- |
 | Copper Dust | 10% | NO |
 | Magnesium Dust | 5% | NO |
-| Lead Dust | 5% | NO |
+| Lead Dust | 5% | NO | -->

@@ -31,6 +31,7 @@ Donating to the server will also give you many discord special perks, if you wis
 * Jobs double XP, money, and points.
 * Gain pet XP 250% faster.
 * 6 Rows of Enderchest.
+* 2% more money drop from mobs.
 
 ## Claiming Your VIP
 

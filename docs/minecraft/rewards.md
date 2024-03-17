@@ -3,55 +3,30 @@ template: overrides/main.html
 title: Rewards
 ---
 
-## Voting Rewards
+## Daily Rewards
 
+You can check and claim your daily/weeks rewards with `/rewards` command.
 
-**For Each Site Voted:** 1,000$ + 1 Common Key
+### Daily Rewards:
+* <span style="color:gray">1 Common Key</span>
+* <span style="color:orange">**VIP ONLY:**</span> <span style="color:purple">1 Unicorn Key</span>
+### Weekly Rewards:
+* <span style="color:purple">3 Unicorn Keys</span>
+* <span style="color:orange">**VIP ONLY:**</span> <span style="color:red">1 Epic Key</span>
+### Monthly Rewards:
+* <span style="color:red">1 Epic Key</span>
+* <span style="color:orange">**VIP ONLY:**</span> <span style="color:red">1 Epic Key</span> + <span style="color:purple">12 Unicorn Keys</span>
 
-**Every Site Voted in a Day:** 1,000$ + 1 Unicorn Key
+## Play Time Rewards
 
+Some of these are automatically claimed, but some are not, to claim unclaimed rewards use `/prewards` command.
 
-### Cumulative Rewards
-
-
-**10 Cumulative Votes:** 5,000$ + 1 Unicorn Key
-
-**20 Cumulative Votes:** 10,000$ + 2 Unicorn Keys
-
-**30 Cumulative Votes:** 15,000$ + 4 Unicorn Keys
-
-**40 Cumulative Votes:** 20,000$ + 5 Unicorn Keys
-
-**50 Cumulative Votes:** 25,000$ + 6 Unicorn Keys
-
-
-### Voting Streak
-
-
-**2 Days In a Row:** 2,000$ + 1 Unicorn Key
-
-**4 Days In a Row:** 7,000$ + 6 Unicorn Keys
-
-**7 Days In a Row:** 20,000$ + 12 Unicorn Keys
-
-**2 Weeks In a Row:** 500,000$ + 1 Epic Key
-
-### Weekly Top Voting Rewards
-
-
-**First Place:** 500,000$ + 1 Epic Key + 6 Unicorn Keys
-
-**Second Place:** 250,000$ + 6 Unicorn Keys
-
-**Third Place:** 100,000$ + 3 Unicorn Keys
-
-### Monthly Top Voting Rewards
-
-**First Place:** 1,000,000$ + 2 Epic Key + 12 Unicorn Keys
-
-**Second Place:** 500,000$ + 1 Epic Key + 4 Unicorn Keys
-
-**Third Place:** 250,000$ + 1 Epic Key + 2 Unicorn Keys
+* **Hourly *Automatic* Award:** <span style="color:green">500$</span>
+* **6 Hours play time:** <span style="color:green">5.000$</span>
+* **12 Hours play time:** <span style="color:green">15.000$</span>
+* **24 Hours play time:** <span style="color:green">30.000$</span>
+* **7 Days play time:** <span style="color:red">1x Epic Key</span>
+* **30 Days play time:** <span style="color:green">150.000$</span> + <span style="color:red">1x Epic Key</span>
 
 ## Achievement Rewards
 
