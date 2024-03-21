@@ -55,7 +55,11 @@ Totems of Undying do work from your inventory meaning you do not have to put the
 
 There are many ways you can make money.
 
-You can get a lot of money from voting. `/vote`
+You can get daily/weekly keys. `/rewards`
+
+???- info "Regarding Keys"
+
+    Keys are good way of making money and getting some decent gear. There is a Key Exchange NPC in the `/crates` area, where you can trade your keys for better ones. To see the rewards and chaces in the crates just punch it(left-click).
 
 Mobs in the server drop money and can also drop XP and Keys. You can farm these for money. With keys, you can get money from crates or sell the keys to other players.
 

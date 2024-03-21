@@ -140,20 +140,25 @@ nav:
   - Minecraft:
     - minecraft/index.md
     - Features and Plugins: minecraft/features-plugins.md
-    - New Player Guide: minecraft/new-player-guide.md
-    - How to Claim Land: minecraft/how-to-claim-land.md
-    - SlimeFun Guide: minecraft/slimefun.md
-    - mcMMO Guide: minecraft/mcmmo-guide.md
-    - Custom Enchantments and Items: minecraft/custom-enchants-and-items.md
-    - Jobs Guide: minecraft/jobs-guide.md
-    - MyPet Guide: minecraft/pets-guide.md
-    - Pet Skill Trees: minecraft/pet-skill-trees.md
-    - Flight Systems: minecraft/flight-systems.md
-    - AutoShulkers: minecraft/autoshulker.md
-    - VIP: minecraft/vip.md
-    - Rewards: minecraft/rewards.md
+    - 'Basics':
+      - New Player Guide: minecraft/new-player-guide.md
+      - How to Claim Land: minecraft/how-to-claim-land.md
+      - Rewards: minecraft/rewards.md
+    - 'Systems Guides':
+      - SlimeFun Info: minecraft/slimefun.md
+      - SlimeFun Guide: minecraft/slimefunguide.md
+      - mcMMO Guide: minecraft/mcmmo-guide.md
+      - Custom Enchantments: minecraft/custom-enchants.md
+      - Custom Items: minecraft/custom-items.md
+      - Jobs Guide: minecraft/jobs-guide.md
+      - MyPet Guide: minecraft/pets-guide.md
+      - Pet Skill Trees: minecraft/pet-skill-trees.md
+      - Flight Systems: minecraft/flight-systems.md
+      - AutoShulkers: minecraft/autoshulker.md
     - All Commands: minecraft/commands.md
-    - Drop Tables: minecraft/droptables.md
+    - VIP: minecraft/vip.md
+    - 'Nerdy Stuff':
+      - Drop Tables: minecraft/droptables.md
   - Discord:
     - discord/index.md
     - How to Use Discord: discord/how-to-use-discord.md

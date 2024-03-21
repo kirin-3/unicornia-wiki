@@ -8,6 +8,8 @@ McMMO’s main function is to incorporate an RPG-like skill system that players 
 
 McMMO can drastically enhance everyday activities, such as mining, farming, or digging, where the special abilities can speed up the process and in some cases, give better item drops. McMMO is also widely used by players who like to partake in PvP, whether it be in the PvP world, or a private arena, McMMO is an opponent of its own and can affect the outcome of a fight in a skilled users hands. McMMO also has a competitive side to it, players race one another to see who can achieve a higher power level or skill level first.
 
+**YOU CAN SEE THE LIST OF SKILLS AND YOUR PROGRESSION WITH THE `/mcmmo` COMMAND ON THE SERVER!**
+
 For more up-to-date and in-depth information feel free to check out [the official mcMMO wiki](https://mcmmo.org/wiki/Main_Page) or this [fan-made wiki](https://mcmmo.fandom.com/wiki/McMMO_Wiki).
 
 ## Power Level

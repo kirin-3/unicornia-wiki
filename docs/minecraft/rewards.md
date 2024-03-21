@@ -7,13 +7,18 @@ title: Rewards
 
 You can check and claim your daily/weeks rewards with `/rewards` command.
 
-### Daily Rewards:
+**Daily Rewards:**
+
 * <span style="color:gray">1 Common Key</span>
 * <span style="color:orange">**VIP ONLY:**</span> <span style="color:purple">1 Unicorn Key</span>
-### Weekly Rewards:
+
+**Weekly Rewards:**
+
 * <span style="color:purple">3 Unicorn Keys</span>
 * <span style="color:orange">**VIP ONLY:**</span> <span style="color:red">1 Epic Key</span>
-### Monthly Rewards:
+
+**Monthly Rewards:**
+
 * <span style="color:red">1 Epic Key</span>
 * <span style="color:orange">**VIP ONLY:**</span> <span style="color:red">1 Epic Key</span> + <span style="color:purple">12 Unicorn Keys</span>
 
