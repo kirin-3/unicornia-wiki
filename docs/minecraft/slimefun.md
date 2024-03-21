@@ -1,6 +1,6 @@
 ---
 template: overrides/main.html
-title: SlimeFun4 Guide
+title: SlimeFun4 Information
 ---
 
 ## What does Slimefun do?​
