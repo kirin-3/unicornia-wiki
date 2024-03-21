@@ -143,6 +143,7 @@ nav:
       - How to Claim Land: minecraft/how-to-claim-land.md
       - Rewards: minecraft/rewards.md
     - 'Systems Guides':
+      - Economy: minecraft/economy.md
       - SlimeFun Info: minecraft/slimefun.md
       - SlimeFun Guide: minecraft/slimefunguide.md
       - mcMMO Guide: minecraft/mcmmo-guide.md
@@ -157,6 +158,7 @@ nav:
     - VIP: minecraft/vip.md
     - 'Nerdy Stuff':
       - Drop Tables: minecraft/droptables.md
+      - Mob Leveling: minecraft/mobleveling.md
   - Discord:
     - discord/index.md
     - How to Use Discord: discord/how-to-use-discord.md
