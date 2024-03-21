@@ -133,7 +133,9 @@ You can make an enclosure for the Wither and let it suffocate to death with a si
 ![Slimefun Wither Farm 4](/assets/images/sf-wither4.png){ loading=lazy }
 
 
-Wither Assembler settings: Offset +1.0 Blocks. And now for the production chain for infinite Soul Sand: Cobblestone Generator (the machine) > Pulverizer (you get sand) >  Electric Composter II > Wither Assembler. And now you can get infinite Sould Sand! This concludes the End Game! Congratulations, you did it! For now. Keep expanding, get bigger and better farms, more of them, make them more efficient, keep at it! You now have both the access to and the know-how on basically everything in SlimeFun! So keep at it, and well done ❤️ 
+Wither Assembler settings: Offset +1.0 Blocks. And now for the production chain for infinite Soul Sand: Cobblestone Generator (the machine) > Pulverizer (you get sand) >  Electric Composter II > Wither Assembler. And now you can get infinite Sould Sand! 
+
+This concludes the End Game! Congratulations, you did it! For now. Keep expanding, get bigger and better farms, more of them, make them more efficient, keep at it! You now have both the access to and the know-how on basically everything in SlimeFun! So keep at it, and well done ❤️ 
 
 
 ## Tips and tricks
