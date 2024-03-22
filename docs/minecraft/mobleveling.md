@@ -80,7 +80,11 @@ There is also attributes it applies to mobs, which normally doesn't happen in va
 
 These are pretty straightforward in terms of what they do, the follow range is just detection/aggro range. Cool now we have some values but what do they mean really?
 
-There is a very cool plugin devs made for seeing what these numbers actually do. [The Tool](http://pbmc.hopto.org/lm/index.php)
+???- tip "Regarding Wardens"
+
+    Wardens are unique, they are leveled however the system doesn't change any base stats other than XP and item drop values, the higher level more drops but not harder wardens. Also, warden leveling is capped at 50 instead of 80.
+
+There is a very cool tool, plugin devs made for seeing what these numbers actually do. [The Tool](http://pbmc.hopto.org/lm/index.php)
 
 If you put the numbers given above into the respective boxes, you can select and mob you want and see how stats are changed based on levels. Under "Multiplier Processing" select "Default" and click on "Display Multipliers".
 

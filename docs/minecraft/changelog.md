@@ -6,15 +6,3 @@ title: Change Logs
 
 
 
-Removed illegal enchants from Kits, also from crate rewards.
-Nether2 world was extended from 4K Block Radius to 20K.
-Old Nether world has been extended from 7K Block Radius to 10K.
-Maps of Nether1, Nether2 and End are changed to lowest quality possible to save space.
-Removed the ability to purchase; Diamond, Emerald and Netherite ores and blocks from shop.
-Added Upgrade Smithing Template to the shop.
-Shop categories are adjusted.
-Slimefun from shop is even more expensive now.
-Added SF guide to wiki written by Eris.
-Added Warp on survival 2
-added train station warp
-Smithing Template to shop
