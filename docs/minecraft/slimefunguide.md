@@ -103,9 +103,10 @@ Now to the hard part.  The energy production question. There are 3 big ways of p
 I do not recommend this type.  Its advantages are that it is by far the easiest and cheapest to set up, as well as running on fairly abundant materials, those being mostly Coal, optionally Lava, and/or Oil / Fuel. Its disadvantage is that it's a material-devouring monster. You will probably need to set up a sizeable  Wither Skeleton farm, from Spawners or a vanilla one, to be able to feed it without having to constantly go out for Industrial Miner runs. This type is achieved simply by having a big stack of Coal Generator Tier II, optionally in combination with Lava and/or Combustion Generators.  
 2. **Nuclear**<br />
 I would recommend this one. Its advantages are that it produces vast amounts of power as well as needing comparatively little maintenance. Its main disadvantage is that it is somewhat complicated to set up and needs an operational  GPS to be able to fuel it. Also will require some modification to the production chain. This type starts as a Nuclear Reactor, [see wiki for setup], and then will be upgraded to a Nether Star Reactor in the End Game. 
+  [see wiki for setup]: https://github.com/Slimefun/Slimefun4/wiki/Reactors
 3. **Solar**<br />
 I would recommend this one and is the one I currently use. Its main advantages are truly zero maintenance required, you make them and they run forever, which is great for someone lazy like me, as well as portability as I can just pick one up and plop it down somewhere else for some quick Oil mining or so. Its biggest disadvantage is that it is the most expensive of them all, it requires immense amounts of materials and you *must* make the last tier, Energized Solar Panels, for them to be useable all the time,  since none of the previous Tiers work during the night. This type is achieved by crafting a cluster of Energized Solar Panels and placing them somewhere, I have 9 of them and am not using them anywhere near full capacity even during the night.
-  [see wiki for setup]: https://github.com/Slimefun/Slimefun4/wiki/Reactors
+
 
 After choosing one and building it, you'll be done with energy generation. Do keep in mind you don't need to deploy it fully, for example just a few Coal Generators, one Nuclear Reactor, or one or two Energized Solar Panels are more than enough for now, even if later on in the End Game you will need more.
 
@@ -149,7 +150,7 @@ You can make an enclosure for the Wither and let it suffocate to death with a si
 
 Wither Assembler settings: Offset +1.0 Blocks. And now for the production chain for infinite Soul Sand: Cobblestone Generator (the machine) > Pulverizer (you get sand) >  Electric Composter II > Wither Assembler. And now you can get infinite Sould Sand! 
 
-This concludes the End Game! Congratulations, you did it! For now. Keep expanding, get bigger and better farms, more of them, make them more efficient, keep at it! You now have both the access to and the know-how on basically everything in SlimeFun! So keep at it, and well done ❤️ ❤️ 
+This concludes the End Game! Congratulations, you did it! For now. Keep expanding, get bigger and better farms, more of them, make them more efficient, keep at it! You now have both the access to and the know-how on basically everything in SlimeFun! So keep at it, and well done ❤️ 
 
 
 ## Tips and tricks
