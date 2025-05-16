@@ -4,16 +4,65 @@
 {% extends "overrides/main.html" %}
 {% block tabs %}
   {{ super() }}
-  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
+  <style>
+    .md-header{position:initial}
+    .md-main__inner{margin:0}
+    .md-content{display:none}
+    @media screen and (min-width:60em){.md-sidebar--secondary{display:none}}
+    @media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}
+    
+    /* Custom hero styles */
+    .mdx-hero {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 3rem 0;
+    }
+    
+    .mdx-hero__image {
+      flex: 0 0 auto;
+      margin-right: 2rem;
+    }
+    
+    .mdx-hero__content {
+      flex: 1 1 auto;
+      max-width: 28rem;
+    }
+    
+    .mdx-hero__content h1 {
+      margin-bottom: 1rem;
+      font-weight: 700;
+      color: var(--md-primary-fg-color);
+    }
+    
+    .mdx-hero__content p {
+      margin: 1rem 0 2rem;
+      font-size: 1.2rem;
+      color: var(--md-typeset-color);
+    }
+    
+    /* Responsive adjustments */
+    @media screen and (max-width: 76.1875em) {
+      .mdx-hero {
+        flex-direction: column;
+        padding: 2rem 1rem;
+      }
+      
+      .mdx-hero__image {
+        margin-right: 0;
+        margin-bottom: 2rem;
+      }
+    }
+  </style>
   <section class="mdx-container">
     <div class="md-grid md-typeset">
       <div class="mdx-hero">
         <div class="mdx-hero__image">
-          <img src="assets/logo-text.png" alt="" width="708" height="1000" draggable="false">
+          <img src="assets/logo-text.png" alt="Unicornia Logo" width="354" height="500" draggable="false">
         </div>
         <div class="mdx-hero__content">
           <h1>Unicornia Wiki Pages</h1>
-          <p>Guides and how-tos.</p>
+          <p>Welcome to the Unicornia community wiki! Here you'll find helpful guides and resources for our Minecraft server and Discord community.</p>
           <a href="{{ 'minecraft/' | url }}" title="Minecraft Wiki Pages" class="md-button md-button--primary">
             Minecraft Section
           </a>
